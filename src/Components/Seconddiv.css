@@ -1,0 +1,26 @@
+
+
+
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.text{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text h1{
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    color: #466184;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

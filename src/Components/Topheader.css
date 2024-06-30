@@ -1,0 +1,61 @@
+.topheader{
+    width: 100%;
+    height: 500px;
+    background-image: url("https://i.pinimg.com/564x/a5/12/d1/a512d1f51eccf437d733ea952beb88b9.jpg");
+     background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(3, 13, 40, 0.5);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   opacity: 2;
+}
+.overlay h1{
+    color: #b5b6b4;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    box-shadow: rgba(255, 255, 255, 0.17) 0px -23px 25px 0px inset, rgba(248, 248, 248, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(10, 10, 10, 0.06) 0px 2px 1px, rgba(243, 242, 242, 0.09) 0px 4px 2px, rgba(251, 250, 250, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.overlay p{
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(221, 217, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding-left: 200px;
+
+}
+.p1{
+    color: rgb(221, 217, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic; 
+    padding-right: 500px;
+}
+.reservation{
+    background-color:  #95a386;
+    color: rgb(10, 10, 10);
+    border: none;
+    padding: 14px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+   margin-top: 50px;
+   box-shadow: rgba(252, 248, 248, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(237, 228, 228, 0.1) 0px -79px 40px 0px inset, rgba(240, 238, 238, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.reservation:hover{
+    background-color: #ebae2b;
+    color: white;
+
+}
+   

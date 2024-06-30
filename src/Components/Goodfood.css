@@ -1,0 +1,30 @@
+.goodfood h2{
+    text-align: center;
+    color: #05213c;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    margin-top: 30px;
+
+}
+.goodfood h1{
+    text-align: center;
+    color: #05213c;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+}
+.goodfood p{
+    text-align: center;
+    color: #b3b6b8;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

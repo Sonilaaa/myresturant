@@ -1,0 +1,49 @@
+.course{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+   
+}
+.text3{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text3 h1{
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    color: #466184;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text3 h2{
+    margin-top: 14px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    color: #525250;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.price{
+    color: #f7b336;
+} 
+.btnmenu{
+    background-color:#80a18f;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.btnmenu:hover{
+    background-color: #9b9790;
+    color: #f7b336;
+}
+ 

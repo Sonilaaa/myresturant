@@ -1,0 +1,38 @@
+.usimg{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+  }
+  .story{
+    position: absolute;
+    color: #283544;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 600px;
+
+text-align: justify;
+margin-top: 40px;
+
+
+}
+/* .usimg{
+    position: relative;
+    width: 800px;
+    height: 800px;
+margin-top: 10px;
+
+} */
+.story p{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+  
+    
